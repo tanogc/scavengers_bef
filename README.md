@@ -1,4 +1,4 @@
-# Scavenger biodiversity aspects driving carrion consumption
+# Scavenger biodiversity metrics driving carrion consumption
 This repository contains data and R code to reproduce the statistical analyses showed in the paper "Large home range scavengers support higher rates of carcass removal". 
 
 Using five study areas in Spain and South Africa, characterised by different levels of abundance and richness of vultures, large carnivores and other facultative scavenger species, we aimed to identify the scavenger community attributes and ecological mechanisms that drive carrion consumption.
