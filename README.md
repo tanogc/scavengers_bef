@@ -23,8 +23,9 @@ More specifically, we test three competitive hypotheses to assess if carrion con
 Please, use this citation to reference the code:
 
 ```
-Gutiérrez-Cánovas, C., Moleón, M., Mateo-Tomás, P, Olea, P.P., Sebastián-González, E., Sánchez-Zapata, J.A. 
-Accepted. Large home range scavengers support higher rates of carcass removal. Functional Ecology
+Gutiérrez-Cánovas, C., Moleón, M., Mateo-Tomás, P, Olea, P.P., Sebastián-González, E., 
+Sánchez-Zapata, J.A. Accepted. Large home range scavengers support higher rates of 
+carcass removal. Functional Ecology.
 ```
 
 Please, send questions or problems related with the use of this code to Cayetano Gutiérrez Cánovas (cayeguti@um.es).
