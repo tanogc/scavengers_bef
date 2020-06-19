@@ -3,16 +3,7 @@ This repository contains data and R code to reproduce the statistical analyses s
 
 Using five study areas in Spain and South Africa, characterised by different levels of abundance and richness of vultures, large carnivores and other facultative scavenger species, we aimed to identify the scavenger community attributes and ecological mechanisms that drive carrion consumption.
 
-In this paper, we test three competitive hypotheses to assess if carrion consumption in vertebrate scavenger communities depends on: i) the presence of key dominant traits (functional identity hypothesis), ii) functional diversity that promotes niche complementarity (functional diversity hypothesis), or iii) the accumulation of individuals and species, irrespective of their trait representation (functional equivalence).
-
-## Original article:
-
-Please, use this citation to reference the code:
-
-```
-Gutiérrez-Cánovas, C., Moleón, M., Mateo-Tomás, P, Olea, P.P., Sebastián-González, E., Sánchez-Zapata, J.A. 
-Accepted. Large home range scavengers support higher rates of carcass removal. Functional Ecology
-```
+More specifically, we test three competitive hypotheses to assess if carrion consumption in vertebrate scavenger communities depends on: i) the presence of key dominant traits (functional identity hypothesis), ii) functional diversity that promotes niche complementarity (functional diversity hypothesis), or iii) the accumulation of individuals and species, irrespective of their trait representation (functional equivalence).
 
 ## R files description:
 
@@ -27,6 +18,13 @@ Accepted. Large home range scavengers support higher rates of carcass removal. F
 * dat_final.txt: carrion consumption rates and scavenger biodiversity metrics for each study site (n=149)
 
 
+## Original article:
+
+Please, use this citation to reference the code:
+
+```
+Gutiérrez-Cánovas, C., Moleón, M., Mateo-Tomás, P, Olea, P.P., Sebastián-González, E., Sánchez-Zapata, J.A. 
+Accepted. Large home range scavengers support higher rates of carcass removal. Functional Ecology
 ```
 
 Please, send questions or problems related with the use of this code to Cayetano Gutiérrez Cánovas (cayeguti@um.es).
