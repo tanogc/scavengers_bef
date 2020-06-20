@@ -1,7 +1,7 @@
 # Scavenger biodiversity metrics driving carrion consumption
 This repository contains data and R code to reproduce the statistical analyses showed in the paper "Large home range scavengers support higher rates of carcass removal". 
 
-Using five study areas in Spain and South Africa, characterised by different levels of abundance and richness of vultures, large carnivores and other facultative scavenger species, we aimed to identify the scavenger community attributes and ecological mechanisms that drive carrion consumption.
+Using five study areas in Spain and South Africa, characterised by different levels of abundance and richness of vultures, large carnivores and other facultative scavenger species, we aim to identify the scavenger community attributes and ecological mechanisms that drive carrion consumption.
 
 More specifically, we test three competitive hypotheses to assess if carrion consumption in vertebrate scavenger communities depends on: i) the presence of key dominant traits (functional identity hypothesis), ii) functional diversity that promotes niche complementarity (functional diversity hypothesis), or iii) the accumulation of individuals and species, irrespective of their trait representation (functional equivalence).
 
