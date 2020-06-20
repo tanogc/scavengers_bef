@@ -14,7 +14,7 @@ More specifically, we test three competitive hypotheses to assess if carrion con
 * **3_scav_models.R**: GLS models exploring the relationship between scavenger biodiversity metrics and carrion consumption for all areas
 
 ## Original data
-* **traits.txt**: functionbal traits for 36 scavenger species
+* **traits.txt**: functional traits for 36 scavenger species
 * **dat_final.txt**: carrion consumption rates and scavenger biodiversity metrics for each study site (n=149)
 
 
