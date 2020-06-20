@@ -20,7 +20,7 @@ More specifically, we test three competitive hypotheses to assess if carrion con
 
 ## Original article:
 
-Please, use this citation to reference the code:
+Please, use this citation to reference the data and R code:
 
 ```
 Gutiérrez-Cánovas, C., Moleón, M., Mateo-Tomás, P, Olea, P.P., Sebastián-González, E., 
