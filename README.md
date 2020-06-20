@@ -7,7 +7,7 @@ More specifically, we test three competitive hypotheses to assess if carrion con
 
 ## R files description:
 
-* **0_FD_functions.R**: R script to estimate Functional Diversity (FD) metrics
+* **0_FD_functions.R**: Functions to estimate Functional Diversity (FD) metrics
 * **0_quality_funct_space.R**: R function for computing the quality of functional dendrogramm and multidimensional functional spaces. This function is a simplified version of the Appendix S1 associated to Maire et al. 2015 (Global Ecol. and Biogeogr.)
 * **1_biometric estimation.R**: Code to estimate scavenger biodiversity metrics (functional identity, functional diversity, functional equivalence).
 * **2_descriptive_plots.R**: Exploratory correlations of scavenger biodiversity metrics and carrion consumption within each area
